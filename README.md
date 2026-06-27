@@ -2,7 +2,7 @@
 
 The Global Climate Data Engineering Project is a production-grade encompassing batch processing, streaming, analytics, and observability. It monitors weather conditions for 50 cities across 6 continents utilizing 16 containerized services. 
 
-The platform architecture fetches data from the free Open-Meteo API and processes it through an hourly batch layer and a 5-minute interval streaming layer. It features robust automated data quality checks, anomaly detection using standard and robust z-scores, and fully automated dashboard provisioning.
+The platform architecture fetches data from the free **Open-Meteo API** and processes it through an hourly batch layer and a 5-minute interval streaming layer. It features robust automated data quality checks, anomaly detection using standard and robust z-scores, and fully automated dashboard provisioning.
 
 ---
 
